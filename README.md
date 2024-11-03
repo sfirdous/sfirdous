@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firdous</h1>
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw1sHwD81254oyrNauR9iLNr&ust=1730732898824000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCH68-4wIkDFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding" width="400" src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw1sHwD81254oyrNauR9iLNr&ust=1730732898824000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCH68-4wIkDFQAAAAAdAAAAABAE)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shaikh-firdous-18b773321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaikh-firdous-18b773321/" height="30" width="40" /></a>
