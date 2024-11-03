@@ -8,12 +8,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sfirdous&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sfirdous&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=sfirdous&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)-->
+<!--[![](https://visitcount.itsvg.in/api?id=sfirdous&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h1 align="center">Hi 👋, I'm Firdous</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
