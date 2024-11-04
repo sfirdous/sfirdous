@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firdous</h1>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw1sHwD81254oyrNauR9iLNr&ust=1730732898824000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCH68-4wIkDFQAAAAAdAAAAABAE">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7"></a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shaikh-firdous-18b773321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaikh-firdous-18b773321/" height="30" width="40" /></a>
