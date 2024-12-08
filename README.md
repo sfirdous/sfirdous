@@ -1,18 +1,3 @@
-<h1 align="center">Hi 👋, I'm Firdous</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Working on Computer" width="200"/>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/shaikh-firdous-18b773321/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sfirdous0404" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -34,6 +19,14 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
   </a> 
 </p>
+
+<!-- Add Language Stats Section -->
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sfirdous0404&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfirdous0404&langs_count=8&layout=compact&theme=radical" />
+</p>
+
 
  
  
