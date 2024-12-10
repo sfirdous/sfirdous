@@ -37,8 +37,8 @@
 <!-- Add Language Stats Section -->
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sfirdous&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfirdous&langs_count=8&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sfirdous&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=light" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfirdous&langs_count=8&layout=compact&theme=light" />
 </p>
 
 
