@@ -1,17 +1,3 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/Yo3Hj8Y8JHaWfssV9d/giphy.gif" alt="Waving Hand" width="30"/> I'm Firdous</h1>
-
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Working on Computer" width="200"/>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/shaikh-firdous-18b773321/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sfirdous0404" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
 <h1 align="center">Hi 👋, I'm Firdous</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Working on Computer" width="200"/>
