@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/LmNwrBhejkK9EOW7oU/giphy.gif" alt="Waving Hand" width="30"/> I'm Firdous</h1>
-<p align="center">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/Yo3Hj8Y8JHaWfssV9d/giphy.gif" alt="Waving Hand" width="30"/> I'm Firdous</h1>
+
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Working on Computer" width="200"/>
 </p>
 
