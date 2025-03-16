@@ -2,7 +2,8 @@
 [![GitHub Header](./github-header-image.png)](https://github.com/sfirdous/sfirdous)
 
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/il5brbite04AAAAi/garfield-typing-garfield.gif">
+<!-- <img align="right" alt="Coding" width="350" src="https://media.tenor.com/il5brbite04AAAAi/garfield-typing-garfield.gif">
+-->
 
 
 - 📫 How to reach me **sfirdous0404@gmail.com**
