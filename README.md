@@ -1,6 +1,7 @@
 
-
 [![GitHub Header](./github-header-image.png)](https://github.com/sfirdous/sfirdous)
+<!--[![GitHub Header](./github-header-image.png)](https://github.com/sfirdous/sfirdous)-->
+
 
 
 <!-- <img align="right" alt="Coding" width="350" src="https://media.tenor.com/il5brbite04AAAAi/garfield-typing-garfield.gif">
