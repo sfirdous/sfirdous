@@ -1,5 +1,5 @@
 
-[![GitHub Header](./github-header-image.png)](https://github.com/sfirdous/sfirdous)
+<!--[![GitHub Header](./github-header-image.png)](https://github.com/sfirdous/sfirdous)-->
 <!--[![GitHub Header](./github-header-image.png)](https://github.com/sfirdous/sfirdous)-->
 
 
@@ -8,7 +8,7 @@
 -->
 
 
-- 📫 How to reach me **sfirdous0404@gmail.com**
+<!-- - 📫 How to reach me **sfirdous0404@gmail.com**
 
 
 
@@ -18,7 +18,7 @@
 <a href="https://www.kaggle.com/shaikhfirdous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@shaikhfirdous" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/sfirdous0404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sfirdous0404/" height="30" width="40" /></a>
 </p>
-
+-->
 
 
  
